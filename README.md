@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul-vermaa&label=Profile%20views&color=0e75b6&style=flat" alt="vipul-vermaa" /> </p>
 
-- 👨‍💻 All of my projects are available at [portfolio-vipul-vermas-projects-7e018c22.vercel.app](portfolio-vipul-vermas-projects-7e018c22.vercel.app)
+- 👨‍💻 All of my projects are available at [https://portfolio-vipul-vermas-projects-7e018c22.vercel.app](https://portfolio-vipul-vermas-projects-7e018c22.vercel.app)
 
 - 📝 I regularly write articles on [https://medium.com/@vipulvermaa](https://medium.com/@vipulvermaa)
 
